@@ -317,7 +317,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## About Me
 
-Hi there! I am **Ayodele Benjamin Esan**. I hold a doctorate in Electrical Engineering with a focus on Deep Reinforcement Learning applications in Energy Systems. I am interested in building intelligent, data-driven, and optimization-aware systems for modern power and energy applications.
+I am **Ayodele Benjamin Esan**. I hold a doctorate in Electrical Engineering with a focus on Deep Reinforcement Learning applications in Energy Systems. I am interested in building intelligent, data-driven, and optimization-aware systems for modern power and energy applications.
 
 Feel free to connect with me on:
 
